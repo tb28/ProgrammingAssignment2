@@ -41,4 +41,4 @@ cacheSolve <- function(x, ...) {
         InvMat
         }        
         
-        ## Return a matrix that is the inverse of 'x'
+        ## Returns a matrix that is the inverse of 'x'
